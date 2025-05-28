@@ -1,2 +1,3 @@
 # Sonalika-demo
-This is my repository
+This is my repository.
+Author-Shradha Khapra
